@@ -40,3 +40,12 @@
 −	Vậy là chúng ta đã có thể tương tác với bot.
 
 ![ketqua](https://user-images.githubusercontent.com/93696035/146647412-279e348d-413d-4815-a357-c244d68f8a25.png)
+
+# Import Botpress Demo
+## Bước 1: Chọn Create Bot -> Import Existing.
+
+![Import 1](https://user-images.githubusercontent.com/93696035/146661136-c69746de-df56-4f98-880b-0d48a7d9166d.png)
+
+## Bước 2: Chọn Browse và chọn đường dẫn đến File Botpress Demo đã tải.
+
+![Import 2](https://user-images.githubusercontent.com/93696035/146661144-f11232e7-4f5b-4bbb-a1ec-2f3abf9574bc.png)
